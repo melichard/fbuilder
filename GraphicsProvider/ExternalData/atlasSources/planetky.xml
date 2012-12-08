@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4fff4aaad2b5da85b96a640c45e58d76$ -->
+<TextureAtlas imagePath="planetky.png">
+    <SubTexture name="planet_large" x="2" y="2" width="996" height="996" frameX="-62" frameY="-62" frameWidth="1120" frameHeight="1120"/>
+    <SubTexture name="planet_medium" x="2" y="1000" width="983" height="983" frameX="-48" frameY="-48" frameWidth="1081" frameHeight="1081"/>
+    <SubTexture name="planet_mini" x="987" y="1000" width="600" height="602" frameX="-260" frameY="-258" frameWidth="1120" frameHeight="1120"/>
+    <SubTexture name="planet_small" x="987" y="1604" width="400" height="400" frameX="-360" frameY="-360" frameWidth="1120" frameHeight="1120"/>
+</TextureAtlas>
